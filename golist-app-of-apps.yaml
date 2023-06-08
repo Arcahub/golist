@@ -6,7 +6,7 @@ metadata:
 spec:
   source:
     path: argocd/applications
-    repoURL: 'https://github.com/christianh814/golist'
+    repoURL: 'https://github.com/Arcahub/golist.git'
     targetRevision: main
   destination:
     namespace: argocd
